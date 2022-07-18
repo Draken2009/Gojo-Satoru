@@ -22,29 +22,29 @@ global.APIKeys = {
 global.owner = ['+967770500831']
 global.premium = ['+967770500831']
 global.ownernomer = '+967770500831'
-global.ownername = '✦〘𝐁.𝐎.𝐓_⌠🔱⌡_𝐑𝐀𝐈𝐙𝐄𝐋〙✦'
-global.botname = 'RAIZEL_SAMA'
+global.ownername = ✦〘𝐁.𝐎.𝐓_⌠🔱⌡_𝐑𝐀𝐈𝐙𝐄𝐋〙✦'
+global.botname = 'Gojo-Satoru'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'RAIZEL'
-global.author = '✦〘𝐁.𝐎.𝐓_⌠🔱⌡_𝐑𝐀𝐈𝐙𝐄𝐋〙✦'
+global.packname = 'Gojo-Satoru'
+global.author = ✦〘𝐁.𝐎.𝐓_⌠🔱⌡_𝐑𝐀𝐈𝐙𝐄𝐋〙✦'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'تم ✓',
     admin: '◢آنت مش آدمـن يـورع🐦◣!',
-    botAdmin: '◢آرفع آلبــوت آدمـن يـسطـآ◣!',
+    botAdmin: '◢آرفع آلبــوت آدمـن يـسطـآ◣',
     owner: 'هذه الاوامر للمالك فقط!',
     group: 'هذه الخدمات تعمل بالقروبات فقط!',
     private: 'هذه الخدمات تعمل بالخاص فقط!',
     bot: 'This Feature Is Only For Bot',
     wait: 'يــرجى الإنتظـار...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 1000 Hours',
 }
     global.limitawal = {
     premium: "Infinity",
